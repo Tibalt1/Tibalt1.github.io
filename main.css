@@ -13,8 +13,9 @@ body {
   background-size: cover;
   margin: 0;
 }
-.navigation{
+.navigation {
   height: 60px;
   line-height: 60px;
   color: blue;
   text-decoration: none;
+}
