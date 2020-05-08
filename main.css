@@ -13,9 +13,23 @@ body {
   background-size: cover;
   margin: 0;
 }
-.navigation {
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+
+nav ul {
+  display: inline;
+}
+
+nav a {
   height: 60px;
   line-height: 60px;
-  color: blue;
+  color: #204156;
   text-decoration: none;
 }
