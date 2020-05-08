@@ -8,7 +8,7 @@ html, body {
 
 body {
   font-family: 'Lato', sans-serif;
-  background-image: url('https://hdwallsbox.com/wallpapers/l/1080x1920/98/swimming-pools-underwater-1080x1920-97003.jpg');
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
   background-position: center top;
   background-size: cover;
   margin: 0;
