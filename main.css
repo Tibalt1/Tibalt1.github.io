@@ -33,3 +33,9 @@ nav a {
   color: #204156;
   text-decoration: none;
 }
+.centre {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	padding: 250px 0;
+	margin: 30px;
+  color: #FFF
+}
