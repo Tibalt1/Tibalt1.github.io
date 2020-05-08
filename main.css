@@ -1,0 +1,15 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLjlAZmdNS-2At4Jltxli3AH7tzNYgXJ4AseHpcvG_cYOVYOfD&usqp=CAU');
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+}
